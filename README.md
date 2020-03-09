@@ -14,6 +14,7 @@ Methods:
 
 ### Car
 Inherits variables and methods from Vehicle
+
 Variables:
 - brand
 - horse_power
@@ -25,6 +26,7 @@ Methods:
 
 ### Plane
 Inherits variables and methods from Vehicle
+
 Methods:
 - take_off
 - touch_down
