@@ -7,6 +7,7 @@ This repository contains 4 classes:
 Variables:
 - n_passengers
 - size_cargo
+
 Methods:
 - accelerate()
 - decelerate()
@@ -17,6 +18,7 @@ Variables:
 - brand
 - horse_power
 - max_speed
+
 Methods:
 - park()
 - honk()
