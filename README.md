@@ -28,10 +28,9 @@ Methods:
 Inherits variables and methods from Vehicle
 
 Methods:
-- take_off
-- touch_down
+- take_off()
+- touch_down()
 
-#
 
 ## 4 Pillars of OOP
 
