@@ -1,5 +1,38 @@
 # Python Vehicles
 
+## Structure
+This repository contains 4 classes:
+
+#### Vehicle 
+Variables:
+- n_passengers
+- size_cargo
+
+Methods:
+- accelerate()
+- decelerate()
+
+#### Car
+Inherits variables and methods from Vehicle
+
+Variables:
+- brand
+- horse_power
+- max_speed
+
+Methods:
+- park()
+- honk()
+
+### Plane
+Inherits variables and methods from Vehicle
+
+Methods:
+- take_off
+- touch_down
+
+#
+
 ## 4 Pillars of OOP
 
 ### Abstraction
