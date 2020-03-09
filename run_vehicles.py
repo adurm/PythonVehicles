@@ -1,6 +1,7 @@
 from Vehicles.Car import *
 from Vehicles.Plane import *
 
+# Vehicle Tests
 vehicle1 = Vehicle(6, 20)
 vehicle2 = Vehicle(2, 10)
 
@@ -11,6 +12,7 @@ print("Passengers:", vehicle1.passengers)
 print("Cargo Size:", vehicle2.cargo_size)
 print("\n")
 
+# Object Tests
 car1 = Car(4, 10, "Toyota", 500, 160)
 car2 = Car(2, 0, "Ferrari", 1000, 400)
 
@@ -21,6 +23,7 @@ print(car2.park())
 print(car2.honk())
 print("\n")
 
+# Plane Tests
 plane1 = Plane(200, 1000)
 plane2 = Plane(2, 10)
 
